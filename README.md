@@ -4,4 +4,4 @@
 
 #### Topics :
 
-- <a style="font-weight:bold" href="pages/csfml.md">CSFML</a>
+- <a style="font-weight:bold" href="pages/csfml">CSFML</a>
